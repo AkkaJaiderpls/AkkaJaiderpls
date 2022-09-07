@@ -1,4 +1,3 @@
-<!-- Rxyhn's Aesthetic GitHub Profile -->
 <div align="justify">
 
 <!-- Profile -->
@@ -11,7 +10,8 @@
           I'm Jaider, a Student, I like Beer and Cigarretes, but I don't like Windows.       
       </b>
       <br>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text"></a>      <br>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1500&color=C5F467&width=435&         lines=Just+a+guy+pretending+to+be+a+hacker." alt="Typing SVG" /></a>      
+      <br>
       <b>
         ~ Jaider Alejandro Pinto Ribera ~
       </b>
