@@ -30,6 +30,7 @@
 <p align="center">
   <samp>
     [<a href="https://twitter.com/Jaiderpls">TWITTER</a>]
+    [<a href="https://www.facebook.com/Jaiderplss">FACEBOOK</a>]
     [<a href="https://instagram.com/Jaiderpls">INSTAGRAM</a>]
     [<a href="mailto:pintojaideralejandro@gmail.com">E-MAIL</a>]
   </samp>
