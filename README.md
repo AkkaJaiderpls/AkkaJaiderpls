@@ -10,7 +10,7 @@
           I'm Jaider, a Student, I like Beer and Cigarretes, but I don't like Windows.       
       </b>
       <br>
-         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=94E105&center=true&vCenter=true&width=440&lines=Just+a+guy+pretending+to+be+a+Hacker." alt="Typing SVG" /></a>      
+         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1500&color=9FEF00&center=true&vCenter=true&width=440&lines=Just+a+guy+pretending+to+be+a+Hacker." alt="Typing SVG" /></a>      
       <br>
       <b>
         ~ Jaider Alejandro Pinto Ribera ~
