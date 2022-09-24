@@ -60,13 +60,13 @@ __I am *JAIDER ALEJANDRO* a System Engineer from Univalle University. I am very 
 - 📫 You can reach me at: <a href="mailto:pintojaideralejandro@gmail.com">pintojaideralejandro@gmail.com</a>
 
 ### Connect With Me 🤝🤝
-[<img src="https://img.shields.io/badge/Jaider Alejandro Pinto Ribera-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />] (https://bo.linkedin.com/in/jaider-alejandro-pinto-ribera-b8a213175/)
-[<img src = "https://img.shields.io/badge/Jaiderpls-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">] (https://www.instagram.com/jaiderpls/)
-[<img src = "https://img.shields.io/badge/Jaiderpls-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">]                      (https://twitter.com/jaiderpls)
-[<img src = "https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white">]                          (https://www.instagram.com/jaiderpls/)
+[<img src="https://img.shields.io/badge/Jaider Alejandro Pinto Ribera-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://bo.linkedin.com/in/jaider-alejandro-pinto-ribera-b8a213175/)
+[<img src = "https://img.shields.io/badge/Jaiderpls-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/jaiderpls/)
+[<img src = "https://img.shields.io/badge/Jaiderpls-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/jaiderpls)
+[<img src = "https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white">](https://www.instagram.com/jaiderpls/)
 [<img src = "https://img.shields.io/badge/Jaider Alejandro Pinto Ribera-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/jaiderpls)
-[<img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">]                               (https://www.discord.com/jaiderpls/)
-[<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">]                             (https://www.telegram.com/xjplz/)
+[<img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://www.discord.com/jaiderpls/)
+[<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://www.telegram.com/xjplz/)
 
 ### Stats 📊
 <p align="center"> 
