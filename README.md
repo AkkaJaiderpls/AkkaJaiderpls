@@ -40,7 +40,7 @@ __I am *JAIDER ALEJANDRO* a System Engineer from Univalle University. I am very 
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![GOOGLE COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
+![GOOGLE COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Jupyter](https://img.shields.io/badge/jupyter-%3776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
 ![ANACONDA](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Xampp](https://img.shields.io/badge/xampp-%FCC624.svg?style=for-the-badge&logo=xampp&logoColor=white&color=FB7A24)
