@@ -19,8 +19,8 @@
 <p align="center">
   <samp>
   <a href="#--------">
-    ![](https://komarev.com/ghpvc/?username=AkkaJaiderpls&color=dc143c)
-  </a>
+<image https://komarev.com/ghpvc/?username=AkkaJaiderpls&label=Profile+Views&color=09FE00/>  
+</a>
   </samp>
 </p>
 </details>
