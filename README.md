@@ -1,12 +1,13 @@
 <div align="justify">
 
-<!-- Profile -->
   <p align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=20&color=9FEF00&background=111927&center=true&vCenter=true&multiline=true&width=900&height=130&lines=%24+.%2Fusr%2Fbin%2Fwhoami;%3E+Azraidix+-+xJplz" alt="Typing SVG" /></a>
+  
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=20&color=9FEF00&background=111927&center=true&vCenter=true&multiline=true&width=900&height=130&lines=%24+.%2Fusr%2Fbin%2Fwhoami;%3E+Azraidix+-+xJplz" alt="Typing SVG"/></a>
+        
   </p>
   
   ### Hello My Dear Fellow Pentesters 👋
-__I am *Jaider Alejandro* a System Engineer from Univalle University. I am very much interested in contributing for open source. And my career interest Cybersecurity. Always there to help others and to clarify the doubts you have.__
+__I am *Jaider Alejandro Pinto Ribera* a System Engineer from Univalle University. I am very much interested in contributing for open source. And my career interest Cybersecurity. Always there to help others and to clarify the doubts you have.__
 
 ### My Skills 🚀
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
@@ -30,9 +31,9 @@ __I am *Jaider Alejandro* a System Engineer from Univalle University. I am very 
 ![ANACONDA](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### About Me🤓
+### About Me ❤️
 
-- 🔭 I’m currently working on Web Based Projects in Django.
+- 🔭 I’m currently working on Tutorials and Auto-Pwns from HackTheBox.
 - 🌱 I’m currently learning Backend,Cybersecurity,Blockchain.
 - 🏫 I want to learn A LOT, A LOT MORE.
 - 👯 I’m looking to collaborate on security projects and help with the correct deployment and configurations of the websites.
