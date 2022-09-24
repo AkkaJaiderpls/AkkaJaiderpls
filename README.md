@@ -38,10 +38,10 @@ __I am *Jaider Alejandro Pinto Ribera* a System Engineer from Univalle Universit
 - 📫 You can reach me at: <a href="mailto:pintojaideralejandro@gmail.com">pintojaideralejandro@gmail.com</a>
 
 ### Connect With Me 🤝🤝
-[<img src="https://img.shields.io/badge/aakarshteja-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aakarsh-teja-issa-ab9a06148/)
-[<img src = "https://img.shields.io/badge/aakarshteja-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/aakarshteja)
-[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/aakarsh.teja)
-[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/aakarshteja/)
+[<img src="https://img.shields.io/badge/akkajaiderpls-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://bo.linkedin.com/in/jaider-alejandro-pinto-ribera-b8a213175/)
+[<img src = "https://img.shields.io/badge/akkajaiderpls-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/jaiderpls)
+[<img src = "https://img.shields.io/badge/akkajaiderpls-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/jaiderpls.teja)
+[<img src = "https://img.shields.io/badge/akkajaiderpls-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/jaiderpls/)
 
 ### Stats 📊
 <p align="center"> 
