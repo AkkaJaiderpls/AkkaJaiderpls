@@ -5,7 +5,7 @@
   </p>
   
   ### Hello My Dear Fellow Pentesters 👋
-__I am *JAIDER* a System Engineer from Univalle University. I am very much interested in contributing for open source. And my career interest Cybersecurity. Always there to help others and to clarify the doubts you have.__
+__I am *JAIDER ALEJANDRO* a System Engineer from Univalle University. I am very much interested in contributing for open source. And my career interest Cybersecurity. Always there to help others and to clarify the doubts you have.__
 
 ### My Skills 🚀
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
@@ -34,7 +34,7 @@ __I am *JAIDER* a System Engineer from Univalle University. I am very much inter
 - 🔭 I’m currently working on Tutorials and Auto-Pwns from HackTheBox.
 - 🌱 I’m currently learning Backend,Cybersecurity and Blockchain.
 - 🏫 I want to learn A LOT, A LOT MORE.
-- 👯 I’m looking to collaborate on security projects and help with the correct deployment and configurations of the websites.
+- 👯 I’m looking to collaborate on security projects.
 - 📫 You can reach me at: <a href="mailto:pintojaideralejandro@gmail.com">pintojaideralejandro@gmail.com</a>
 
 ### Connect With Me 🤝🤝
