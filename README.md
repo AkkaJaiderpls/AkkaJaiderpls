@@ -8,6 +8,7 @@
 __I am *JAIDER ALEJANDRO* a System Engineer from Univalle University. I am very much interested in contributing for open source. And my career interest Cybersecurity. Always there to help others and to clarify the doubts you have.__
 
 ### My Skills 🚀
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![LARAVEL](https://img.shields.io/badge/laravel-%FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
