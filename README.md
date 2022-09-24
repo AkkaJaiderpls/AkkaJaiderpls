@@ -32,7 +32,7 @@ __I am *Jaider Alejandro Pinto Ribera* a System Engineer from Univalle Universit
 ### About Me ❤️
 
 - 🔭 I’m currently working on Tutorials and Auto-Pwns from HackTheBox.
-- 🌱 I’m currently learning Backend,Cybersecurity,Blockchain.
+- 🌱 I’m currently learning Backend,Cybersecurity and Blockchain.
 - 🏫 I want to learn A LOT, A LOT MORE.
 - 👯 I’m looking to collaborate on security projects and help with the correct deployment and configurations of the websites.
 - 📫 You can reach me at: <a href="mailto:pintojaideralejandro@gmail.com">pintojaideralejandro@gmail.com</a>
