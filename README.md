@@ -5,8 +5,8 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=20&color=9FEF00&background=111927&center=true&vCenter=true&multiline=true&width=900&height=130&lines=%24+.%2Fusr%2Fbin%2Fwhoami;%3E+Azraidix+-+xJplz" alt="Typing SVG" /></a>
   </p>
   
-  ### Hello My Dear Fellow Developers 👋
-__I am *Aakarsh Teja* a Computer Science Student from VIT University. I am very much interested in contributing for open source. And my career interest is Cloud & Cybersecurity. Always there to help others and to clarify the doubts you have.__
+  ### Hello My Dear Fellow Pentesters 👋
+__I am *Jaider Alejandro* a System Engineer from Univalle University. I am very much interested in contributing for open source. And my career interest Cybersecurity. Always there to help others and to clarify the doubts you have.__
 
 ### My Skills 🚀
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
@@ -32,12 +32,11 @@ __I am *Aakarsh Teja* a Computer Science Student from VIT University. I am very 
 
 ### About Me🤓
 
-- 🔭 I’m currently working on Web Based Projects in Laravel.
-- 🌱 I’m currently learning Frontend,Cybersecurity,Blockchain.
-- 🏫  Want to learn MEAN,MERN stack.
-- 👯 I’m looking to collaborate on Laravel, security Projects and can help you with Website Deployments Configurations and Setup.
-- 📫 You can reach me at: <a href="mailto:aakarshissa@gmail.com">aakarshissa@gmail.com</a>
-- 💭 My dream is to work with Elon Musk, Hope one day I'll meet him and explain my ideas.
+- 🔭 I’m currently working on Web Based Projects in Django.
+- 🌱 I’m currently learning Backend,Cybersecurity,Blockchain.
+- 🏫 I want to learn A LOT, A LOT MORE.
+- 👯 I’m looking to collaborate on security projects and help with the correct deployment and configurations of the websites.
+- 📫 You can reach me at: <a href="mailto:pintojaideralejandro@gmail.com">pintojaideralejandro@gmail.com</a>
 
 ### Connect With Me 🤝🤝
 [<img src="https://img.shields.io/badge/aakarshteja-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aakarsh-teja-issa-ab9a06148/)
@@ -47,11 +46,11 @@ __I am *Aakarsh Teja* a Computer Science Student from VIT University. I am very 
 
 ### Stats 📊
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aakarshteja&show_icons=true" alt="aakarshteja_stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakarshteja&layout=compact" alt="aakarshteja_stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aakarshteja&" alt="aakarshteja_stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akkajaiderpls&show_icons=true" alt="akkajaiderpls_stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkajaiderpls&layout=compact" alt="akkajaiderpls_stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akkajaiderpls&" alt="akkajaiderpls_stats"/>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aakarshteja" alt="Aakarsh Teja Profile visits" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=akkajaiderlps" alt="Jaider Alejandro Profile visits" /></p>
   
 <div align="justify">
 </div>
