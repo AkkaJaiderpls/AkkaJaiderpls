@@ -1,14 +1,15 @@
 <div align="justify">
 
   <p align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=20&color=9FEF00&background=111927&center=true&vCenter=true&multiline=true&width=900&height=130&lines=%24+.%2Fusr%2Fbin%2Fwhoami;%3E+Azraidix+-+xJplz" alt="Typing SVG"/></a>      
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=10&color=9FEF00&background=111927&center=true&vCenter=true&multiline=true&width=900&height=130&lines=%24+.%2Fusr%2Fbin%2Fwhoami;%3E+Azraidix+-+xJplz" alt="Typing SVG"/></a>      
   </p>
   
 ### Hello My Dear Fellow Pentesters. 👋
 __I am *JAIDER ALEJANDRO* a System Engineer from Univalle University. I am very much interested in contributing for open source. And my career interest Cybersecurity. Always there to help others and to clarify the doubts you have.__
 
 ### My Skills 🚀
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HACKTHEBOX]https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LARAVEL](https://img.shields.io/badge/laravel-%FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
