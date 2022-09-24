@@ -4,7 +4,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=20&color=9FEF00&background=111927&center=true&vCenter=true&multiline=true&width=900&height=130&lines=%24+.%2Fusr%2Fbin%2Fwhoami;%3E+Azraidix+-+xJplz" alt="Typing SVG"/></a>      
   </p>
   
-### Hello My Dear Fellow Pentesters 👋
+### Hello My Dear Fellow Pentesters. 👋
 __I am *JAIDER ALEJANDRO* a System Engineer from Univalle University. I am very much interested in contributing for open source. And my career interest Cybersecurity. Always there to help others and to clarify the doubts you have.__
 
 ### My Skills 🚀
@@ -33,10 +33,10 @@ __I am *JAIDER ALEJANDRO* a System Engineer from Univalle University. I am very 
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 
 ### Tools I Use 🔧🔨
-![KALI LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white
-![VISUAL STUDIO](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-![ANDROID STUDIO](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
+![KALI LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VISUAL STUDIO](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![ANDROID STUDIO](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
