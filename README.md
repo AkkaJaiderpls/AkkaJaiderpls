@@ -55,7 +55,7 @@ __I am *JAIDER ALEJANDRO* a System Engineer from Univalle University. I am very 
 ### About Me ❤️
 
 - 🔭 I’m currently working on Tutorials and Auto-Pwns from HackTheBox.
-- 🌱 I’m currently learning Backend,Cybersecurity and Blockchain.
+- 🌱 I’m currently learning Backend, Cybersecurity and Blockchain.
 - 🏫 I want to learn A LOT, A LOT MORE.
 - 👯 I’m looking to collaborate on security projects.
 - 📫 You can reach me at: <a href="mailto:pintojaideralejandro@gmail.com">pintojaideralejandro@gmail.com</a>
